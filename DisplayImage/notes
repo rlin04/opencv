@@ -1,0 +1,1 @@
+`stdio.h` is the input/output header file for the C standard library. In contrast with `iostream`, the i/o header file for C++, it defines `printf` instead for `cout`
